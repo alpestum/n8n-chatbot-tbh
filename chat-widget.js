@@ -293,7 +293,7 @@
         branding: {
             logo: '',
             name: '',
-            welcomeText: '',
+            welcomeText: 'Your AI property assistant is ready to help',
             responseTimeText: '',
             poweredBy: {
                 text: 'Powered by thebalihomes.com',
